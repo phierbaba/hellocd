@@ -14,7 +14,7 @@ public class HellocdApplication {
 
 	@RequestMapping("/")
 	String home() {
-		return "Hello to Abanishe, Mosopefoluwa, Eriifeoluwa, Mummy and Daddy!";
+		return "Hello to Mummy, Daddy, Joseph, Bani and Sope! We are in our house";
 	}
 
 	public static void main(String[] args) {
